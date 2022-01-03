@@ -1,5 +1,5 @@
 print("This is your 2020 checklist! Let's start...")
-print("1. Did you think of sex at least once a day?")
+print("1. Did you think of something very nice at least once a day?")
 answer = input ("Say yes or no: ")
 if answer == "yes":
     print(" Congratulations! You're a healthy individual!!! Please go on to next question. ")
